@@ -1,0 +1,25 @@
+body {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+li {
+    color: rgb(0, 63, 0);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.important {
+    font-weight: bold;
+}
+
+img {
+    padding-top: 20px;
+    opacity: 0.5;
+}
